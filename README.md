@@ -19,12 +19,11 @@ style="margin: 0 10px;" >简体中文</a>
     <a href="https://hellogithub.com/repository/d148f8fac78b45fe9b94c82757c3f86b" target="_blank"><img src="https://api.hellogithub.com/v1/widgets/recommend.svg?rid=d148f8fac78b45fe9b94c82757c3f86b&claim_uid=LXfeQOxRDEmSUGC&theme=small" alt="Featured｜HelloGitHub"></a>
 </p>
 
-
 <div align="left">PakePlus supports Mac, Windows, Linux, and Android & iOS. There’s no need to install complex dependencies locally, PakePlus is only about 10MB in size. For the latest version, please see the <a href="[#popular-packages](https://github.com/Sjj1024/PakePlus/releases)">release page</a>. or visit: <a href="https://pakeplus.pages.dev" target="_blank">PakePlus Web</a>. 
 Document: <a href="https://pakeplus.com/guide/" target="_blank">PakePlus Guide</a></div>  
 <br>
 
->  **PakePlus is entirely independently developed**—it uses no code, architecture, or design from [Pake](https://github.com/tw93/Pake), and all implementations are original.
+> **PakePlus is entirely independently developed**—it uses no code, architecture, or design from [Pake](https://github.com/tw93/Pake), and all implementations are original.
 
 https://github.com/user-attachments/assets/b88bf541-0b26-4020-9eec-da79e1734fc9
 
@@ -124,27 +123,6 @@ PakePlus supports installation packages for both ARM and Intel architectures. Mo
    double-click to install, and run the app. or visit web:
 
 <a href="https://pakeplus.pages.dev" target="_blank">PakePlus Web</a>
-
-1. Configure GitHub token or use local packaging, create a new project, and set up the configurations. get token guide:
-
-<a href="https://sjj1024.github.io/PakePlus/index_en.html">English</a> <a href="https://pakeplus.com/zh/guide/token.html" style="margin: 0 50px;">简体中文</a><a href="https://sjj1024.github.io/PakePlus/index_ja.html">日本语</a>
-
-```
-Explanation of Github Token permissions:
-1. For the beta version, token permissions required:
-All repositories: Fork an original template repository
-Actions: Manage GitHub actions
-Administration: Fork and manage files in the repository
-Contents: Add, delete, modify, and find repository contents
-Issues: Submit issues to PakePlus
-
-1. For the classic version, token permissions required:
-repo: Fork and manage template code
-workflow: Compile and release your software
-```
-
-1. You can preview the app in a new window and click the publish button to package the app.
-2. You can download the app from the release page.
 
 ## FAQ
 
